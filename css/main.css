@@ -1,0 +1,135 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+/* Fonts End */
+
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* RESET */
+
+body{
+    background: #b88165;
+}
+
+main{
+    background-color: #867A5B;
+}
+
+footer{
+    background-color: #8C5940;
+}
+
+/* H-1 Tag Style Start*/
+h1{
+    font-family: Poppins, sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    text-shadow: 3px 5px 10px #BF8C73;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    letter-spacing: 9px;
+    font-size: 45px;
+}
+/* H-1 Tag Style End*/
+
+.title-heading{
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:#8C5940;
+}
+
+li a{
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    padding: 15px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    transform: translateX(-50%);
+
+}
+
+
+.first-img{
+    width: 150px;
+    border: 1px solid #E2D2B6;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.wave-img{
+    background-color: #8C5940;
+}
+
+.wave-img-2{
+    background-color: #8C5940;
+    padding-bottom: 100px;
+}
+
+
+header{
+    background-color: #8C5940;
+}
+
+h3{
+    font-family: Poppins, sans-serif;
+}
+
+
+a{
+    font-family: Raleway,sans-serif;
+    text-decoration: none;
+    color: #190d1c;
+
+}
+
+p{
+    font-family: Raleway,sans-serif;
+}
+
+
+.first-content{
+    
+}
+
+.first-content img{
+    border: #8C5940 outset 7px;
+    
+}
+
+
+.second-content{
+   
+}
+
+.second-content img{
+    border: #8C5940 outset 7px;
+}
+
+
+
+.third-content{
+    
+}
+
+.third-content img{
+    border: #8C5940 outset 7px;
+}
