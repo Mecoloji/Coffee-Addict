@@ -34,8 +34,14 @@ h1{
     transform: translateX(-50%);
     letter-spacing: 9px;
     font-size: 45px;
+    padding-bottom: 60px;
 }
 /* H-1 Tag Style End*/
+
+p{
+    font-family:Raleway ;
+    font-size: 19px;    
+}
 
 .title-heading{
     font-family: Poppins, sans-serif;
@@ -69,10 +75,10 @@ li a{
 
 .first-img{
     width: 150px;
-    border: 1px solid #E2D2B6;
+    border: 3px solid #E2D2B6;
     border-radius: 10px;
-    margin-top: 5px;
-    margin-left: 5px;
+    margin-top: 7px;
+    margin-left: 7px;
 }
 
 .wave-img{
@@ -106,30 +112,6 @@ p{
 }
 
 
-.first-content{
-    
-}
-
-.first-content img{
-    border: #8C5940 outset 7px;
-    
-}
-
-
-.second-content{
-   
-}
-
-.second-content img{
-    border: #8C5940 outset 7px;
-}
 
 
 
-.third-content{
-    
-}
-
-.third-content img{
-    border: #8C5940 outset 7px;
-}
